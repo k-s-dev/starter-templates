@@ -1,4 +1,4 @@
-# Nextjs Starter Templates
+# Starter Templates
 
 | Index  | Repo | Demo | Stack |
 | ---- | ---- | ----- | ---- |
